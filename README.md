@@ -1,2 +1,2 @@
 # bookbot
-The first exercise from bootdev website
+BookBot is my first project!
